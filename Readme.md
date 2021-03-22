@@ -13,7 +13,7 @@
 	Step 3 : `npm init -y` \
 	Step 4 : `npm install -D lite-server` \
 	Step 5 : `touch index.html` \
-	Step 6 : Change one line in package.json \
+	Step 6 : Change one line in package.json
 ```javascript
 				"scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -24,7 +24,7 @@
     "dev": "lite-server"
   },
 ```
-	Step 6 : `npm run dev` \
+	Step 6 : `npm run dev`
 
 
 **************************************************************

@@ -1,8 +1,8 @@
 # Reactjs Basic Commands
 	
-**How to Create a Reactjs Application in quick!**
-		`npx create-react-app firstproject`
-	*This command which is used to create a REACTJS projects quick and it will create everything*
+**How to Create a Reactjs Application in quick!**\
+		`npx create-react-app firstproject`\
+	*This command which is used to create a REACTJS projects quick and it will create everything*\
 
 
 **************************************************************

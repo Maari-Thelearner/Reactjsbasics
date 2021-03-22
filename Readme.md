@@ -7,7 +7,7 @@
 **************************************************************
 
 
-**How to create a Reactjs Application from Stratch** \ 
+**How to create a Reactjs Application from Stratch** \\
 	Step 1 : `mkdir firstproject` \ 
 	Step 2 : `cd firstproject` \ 
 	Step 3 : `npm init -y` \
